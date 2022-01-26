@@ -1,3 +1,3 @@
-from ls import User, Privileges, Admin
+from ls import User, Admin, Privileges
 
 p = Privileges()
