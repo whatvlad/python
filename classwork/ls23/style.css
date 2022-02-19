@@ -1,0 +1,40 @@
+
+
+.box{
+    text-align: center;
+    background-color: black;
+    height: 100%;
+    
+}
+
+.content{
+    min-height: 400px;
+    margin-bottom:10px;
+
+}
+
+.header{
+    min-height: 120px;
+    margin-bottom: 10px;
+}
+
+
+.nizhe{
+    min-height: 120px;
+    margin-bottom: 10px;
+}
+
+.items{
+  min-height: 300px;
+  margin-bottom: 10px;
+}
+
+.contact{
+  min-height: 270px;
+  margin-bottom: 10px;
+}
+
+.last{
+  min-height: 225px;
+  margin-bottom: 10px;
+}
